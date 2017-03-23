@@ -1,2 +1,1 @@
-# akarin.github.io
-YRYR storage
+just another site in irzie.github.io
