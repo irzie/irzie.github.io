@@ -37,6 +37,30 @@
 .col-sm-8{
 	text-align:right;
   }
+  
+  
+  /* Foto Profile */
+.foto {
+	border-radius: 50%;
+	-webkit-animation-delay: 1s;
+  }
+
+/* Gambar Tabel Kotak */
+tr.dftr {vertical-align: middle;
+}
+
+th.gmbr img{width:2em;height:2em;vertical-align:middle;
+border-radius: 25px;
+} 
+
+td.daftar {
+  text-align: center;
+}
+
+th.daftar {
+  text-align: center;
+}
+
 #footer {
 	margin-top: 10%;
 	margin-left:15%;
